@@ -99,7 +99,7 @@ header h2 {
   max-width: 100%;
 }
 
-#downloads {
+#categories {
   margin-bottom: 40px;
 }
 
@@ -355,7 +355,7 @@ footer a:hover {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  #downloads {
+  #categories {
     margin-bottom: 25px;
   }
   #download-zip, #download-tar-gz {
